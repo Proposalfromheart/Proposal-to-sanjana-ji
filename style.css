@@ -5,23 +5,14 @@ body {
   align-items: center;
   justify-content: center;
   background-size: 1000px;
-  background-image: url("https://www.psdgraphics.com/wp-content/uploads/2022/01/white-math-paper-texture.jpg");
+  background-image: url("white-math-paper-texture.webp");
   background-position: center center;
   border-radius: 10px;
   align-items: center;
   justify-content: center;
 }
 
-body,
-html {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  background: url('background-image.jpg') no-repeat center center fixed;
-  background-size: cover;
-}
+
 
 .content {
   display: flex;
